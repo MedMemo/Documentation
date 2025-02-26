@@ -70,9 +70,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'MedMemo',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'MedMemo Logo',
         src: 'img/logo.svg',
       },
       items: [
