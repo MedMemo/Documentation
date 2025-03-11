@@ -1,316 +1,273 @@
 {
-  "/Documentation/__docusaurus/debug-d5e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    }
-  },
-  "/Documentation/__docusaurus/debug/config-70b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    }
-  },
-  "/Documentation/__docusaurus/debug/content-03c": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    },
-    "__props": "__props---documentation-docusaurus-debug-contentbd-5-dca"
-  },
-  "/Documentation/__docusaurus/debug/globalData-149": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    }
-  },
-  "/Documentation/__docusaurus/debug/metadata-9b4": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    }
-  },
-  "/Documentation/__docusaurus/debug/registry-d31": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    }
-  },
-  "/Documentation/__docusaurus/debug/routes-128": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
-    }
-  },
   "/Documentation/blog-fb2": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---documentation-blog-766-e64"
+        "content": "7661071f"
       },
       {
-        "content": "content---documentation-blogf-4-f-0ed"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---documentation-blog-871-77c"
+        "content": "8717b14a"
       },
       {
-        "content": "content---documentation-blog-925-069"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---documentation-blogad-2-084"
+    "__props": "ad255f7e"
   },
   "/Documentation/blog/archive-b74": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "__props": "__props---documentation-blog-archivee-70-888"
+    "__props": "e70aebf8"
   },
   "/Documentation/blog/authors-e57": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "__props": "__props---documentation-blog-authors-506-7fc"
+    "sidebar": "814f3328",
+    "__props": "506d0c1d"
   },
   "/Documentation/blog/authors/all-sebastien-lorber-articles-d9d": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---documentation-blog-766-e64"
+        "content": "7661071f"
       },
       {
-        "content": "content---documentation-blogf-4-f-0ed"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---documentation-blog-925-069"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "__props": "__props---documentation-blog-authors-all-sebastien-lorber-articles-7-f-5-403"
+    "sidebar": "814f3328",
+    "__props": "7f5f598e"
   },
   "/Documentation/blog/authors/yangshun-053": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---documentation-blog-766-e64"
+        "content": "7661071f"
       },
       {
-        "content": "content---documentation-blog-871-77c"
+        "content": "8717b14a"
       },
       {
-        "content": "content---documentation-blog-925-069"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "__props": "__props---documentation-blog-authors-yangshun-8-d-5-db2"
+    "sidebar": "814f3328",
+    "__props": "8d5b36c4"
   },
   "/Documentation/blog/first-blog-post-730": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "content": "content---documentation-blog-first-blog-poste-27-aa6"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/Documentation/blog/long-blog-post-952": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "content": "content---documentation-blog-long-blog-post-736-302"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/Documentation/blog/mdx-blog-post-301": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "content": "content---documentation-blog-mdx-blog-post-593-9a4"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/Documentation/blog/tags-db1": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "__props": "__props---documentation-blog-tagsbe-1-60c"
+    "sidebar": "814f3328",
+    "__props": "be190f5f"
   },
   "/Documentation/blog/tags/docusaurus-4bc": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---documentation-blog-766-e64"
+        "content": "7661071f"
       },
       {
-        "content": "content---documentation-blogf-4-f-0ed"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---documentation-blog-871-77c"
+        "content": "8717b14a"
       },
       {
-        "content": "content---documentation-blog-925-069"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---documentation-blog-tags-docusaurus-6-e-6-3f3"
+    "__props": "6e66db25"
   },
   "/Documentation/blog/tags/facebook-dbb": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---documentation-blog-766-e64"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---documentation-blog-tags-facebook-226-c73"
+    "__props": "22628217"
   },
   "/Documentation/blog/tags/hello-bc2": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---documentation-blog-766-e64"
+        "content": "7661071f"
       },
       {
-        "content": "content---documentation-blog-871-77c"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---documentation-blog-tags-hellob-44-902"
+    "__props": "b446779f"
   },
   "/Documentation/blog/tags/hola-08d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---documentation-blog-925-069"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---documentation-blog-tags-hola-822-35e"
+    "__props": "8223eea4"
   },
   "/Documentation/blog/welcome-92b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---documentation-blog-369-a56"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---documentation-blog-814-f34",
-    "content": "content---documentation-blog-welcomed-9-f-0dd"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/Documentation/markdown-page-f20": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---documentation-markdown-pagea-74-5bf"
+      "plugin": "a7456010"
     },
-    "content": "content---documentation-markdown-page-393-9ba"
+    "content": "393be207"
   },
   "/Documentation/docs-25e": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---documentation-docsaba-2d5"
+      "plugin": "aba21aa0"
     }
   },
   "/Documentation/docs-917": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---documentation-docs-915-d1b"
+    "__comp": "a7bd4aaa",
+    "__props": "91596e65"
   },
   "/Documentation/docs-0b8": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/Documentation/docs/category/tutorial---basics-33c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---documentation-docs-category-tutorial-basicsb-4-f-9e8"
+    "__comp": "14eb3368",
+    "__props": "b4f0e88a"
   },
   "/Documentation/docs/category/tutorial---extras-bd4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---documentation-docs-category-tutorial-extras-659-b4c"
+    "__comp": "14eb3368",
+    "__props": "65945a55"
   },
   "/Documentation/docs/intro-e18": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-intro-0-e-3-1bf"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/Documentation/docs/tutorial-basics/congratulations-29a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-congratulations-822-482"
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
   "/Documentation/docs/tutorial-basics/create-a-blog-post-524": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-create-a-blog-post-533-6b2"
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
   "/Documentation/docs/tutorial-basics/create-a-document-6bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-create-a-document-1-e-4-630"
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
   "/Documentation/docs/tutorial-basics/create-a-page-446": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-create-a-page-5-c-8-af1"
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
   "/Documentation/docs/tutorial-basics/deploy-your-site-aad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-deploy-your-sitef-55-ab7"
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
   "/Documentation/docs/tutorial-basics/markdown-features-b27": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-markdown-features-18-c-681"
+    "__comp": "17896441",
+    "content": "18c41134"
   },
   "/Documentation/docs/tutorial-extras/manage-docs-versions-88a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-extras-manage-docs-versionsdff-a8a"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/Documentation/docs/tutorial-extras/translate-your-site-ce7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-extras-translate-your-sitee-44-65e"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/Documentation/-a33": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---documentation-markdown-pagea-74-5bf"
+      "plugin": "a7456010"
     },
-    "config": "config---documentation-5-e-9-78b"
+    "config": "5e9f5e1a"
   }
 }
