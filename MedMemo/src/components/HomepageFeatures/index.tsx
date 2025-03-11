@@ -15,7 +15,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        bryan the goat
+        This is a test for the github action.
+        Bryan is not the GOAT.
       </>
     ),
   },
