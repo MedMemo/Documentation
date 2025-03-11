@@ -43,6 +43,7 @@ jobs:
         with:
           node-version: 22.x
           cache: npm
+          cache-dependency-path: '**/package-lock.json' 
       - name: Install dependencies
         run: npm install --frozen-lockfile --non-interactive
 
